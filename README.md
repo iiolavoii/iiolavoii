@@ -1,7 +1,7 @@
 - 👋 Hi everyone, I’m @iiolavoii and I'm 25 years old
-- 👀 I’m interested in understanding the "why Open Source Projects" and learning how to become a better me.
+- 🤓 I’m interested in understanding the "why Open Source Projects" and learning how to become a better me.
 - 🌱 I’m currently learning SAPUI5 and Node.js
-- 💞️ I’m looking to collaborate on any work that I'm might be of any help
+- 👀 I’m looking to collaborate on any work that I'm might be of any help
 - 📫 How to reach me on my Discord IIOsírisII#6944
 
 <!---
