@@ -1,8 +1,7 @@
-- 👋 Hi everyone, I’m @iiolavoii and I'm 25 years old
-- 🤓 I’m interested in understanding the "why Open Source Projects" and learning how to become a better me.
-- 🌱 I’m currently learning SAPUI5 and Node.js
-- 👀 I’m looking to collaborate on any work that I'm might be of any help
-- 📫 How to reach me on my Discord IIOsírisII#6944
+- 👋 Hi everyone, I’m @iiolavoii and I'm 27 years old
+- 🌱 I’m currently developing in SAPUI5, Node.js, Javascript
+- 👀 I’m looking to work with project involving some level of design 
+- 📫 You can reach me at my Discord IIOsírisII#6944 or LinkIn olavobgo
 
 <!---
 iiolavoii/iiolavoii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
